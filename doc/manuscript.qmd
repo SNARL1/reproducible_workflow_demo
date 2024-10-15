@@ -1,0 +1,49 @@
+---
+format: pdf
+include-in-header:
+  text: |
+    \usepackage{lineno}\linenumbers
+editor: visual
+editor_options:
+  markdown:
+    wrap: sentence
+bibliography: manuscript.bib
+csl: ecology.csl
+---
+
+## The relationship between length and weight in Sierra Nevada yellow-legged frogs
+
+Roland A. Knapp^1,2,^\* & John Imperato^3^
+
+^1^Sierra Nevada Aquatic Research Laboratory, University of California, Mammoth Lakes, CA, 93546
+
+^2^Earth Research Institute, University of California, Santa Barbara, CA, 93106-3060
+
+^3^School of the Environment, Yale University, New Haven, CT, xxxxx
+
+### Abstract
+
+xx
+
+### Introduction
+
+Many studies have described length-weight relationships in amphibians [@santini2018].
+In the current study, we describe this relationship in the endangered Sierra Nevada yellow-legged frog (*Rana sierrae*).
+
+### Methods
+
+xx
+
+### Results
+
+The length-weight relationship for R.
+sierrae is log-linear and does not differ between males and females (@fig-lenwt).
+
+### References
+
+::: {#refs}
+:::
+
+### Figures
+
+![Length-weight relationship for adult *Rana sierrae*. The relationship does not differ between males and females.](images/len_wt_plot.png){#fig-lenwt width="70%"}
