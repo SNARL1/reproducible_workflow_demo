@@ -36,8 +36,15 @@ xx
 
 ### Results
 
-The length-weight relationship for R.
-sierrae is log-linear and does not differ between males and females (@fig-lenwt).
+```{r}
+#| include: false
+library(readr)
+library(dplyr)
+d1 <- read_csv(here::here("data", "deso_capture.csv"))
+```
+
+In our study, we captured frogs from `r n_distinct(d1$site_id)` sites and made a total of `r nrow(d1)` length and weight measurements.
+The length-weight relationship for *R. sierrae* is log-linear and does not differ between males and females (@fig-lenwt).
 
 ### References
 
