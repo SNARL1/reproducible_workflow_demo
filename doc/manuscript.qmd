@@ -23,7 +23,7 @@ Roland A. Knapp^1,2,^\* & John Imperato^3^
 
 ### Abstract
 
-xx
+This will be the most awesome paper ever.
 
 ### Introduction
 
