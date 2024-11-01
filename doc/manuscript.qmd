@@ -24,6 +24,7 @@ Roland A. Knapp^1,2,^\* & John Imperato^3^
 ### Abstract
 
 This will be the most awesome paper ever.
+The correlation between length and weight is a well-known pattern.
 
 ### Introduction
 
