@@ -27,7 +27,8 @@ This will be the most awesome paper ever.
 The correlation between length and weight is a well-known pattern.
 Here, we investigate this relationship in the endangered Sierra Nevada yellow-legged frog (*Rana sierrae*).
 You'll never believe what we find.
-And those results are shown below. 
+And those results are shown here.
+
 
 ### Introduction
 
