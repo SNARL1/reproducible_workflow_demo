@@ -29,7 +29,6 @@ Here, we investigate this relationship in the endangered Sierra Nevada yellow-le
 You'll never believe what we find.
 And those results are shown here.
 
-
 ### Introduction
 
 Many studies have described length-weight relationships in amphibians [@santini2018].
@@ -37,7 +36,7 @@ In the current study, we describe this relationship in the endangered Sierra Nev
 
 ### Methods
 
-xx
+We captured frogs by hand and each frog was measured and weighed.
 
 ### Results
 
